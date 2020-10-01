@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Hello, I am a first year Software Engineering Major at RIT. I have recently graduated from the Rush Henrietta Senior High School. I am passionate about creating software that is useful, reliable, and helps improve the lives of others. 
 
-You can use the [editor on GitHub](https://github.com/zjw4373/zjw4373.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My favorite food: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/10/16/0/DV2904_Korean-BBQ-Burrito_s4x3.jpg.rend.hgtvcom.826.620.suffix/1539714414867.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The RIT SE Website: https://www.rit.edu/computing/department-software-engineering
 
-### Markdown
+What i'd like to learn from the course:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zjw4373/zjw4373.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Different software engineering processes
+-How to effectively work in a team of software engineers
+-Better coding practices
